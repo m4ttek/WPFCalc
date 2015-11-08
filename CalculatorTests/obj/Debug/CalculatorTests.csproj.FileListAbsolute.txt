@@ -1,0 +1,18 @@
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\MVVM.exe
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\log4net.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\MVVM.pdb
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\bin\Debug\log4net.xml
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\CalculatorTests\obj\Debug\CalculatorTests.pdb
+E:\MVVM\CalculatorTests\bin\Debug\CalculatorTests.dll
+E:\MVVM\CalculatorTests\bin\Debug\CalculatorTests.pdb
+E:\MVVM\CalculatorTests\bin\Debug\MVVM.exe
+E:\MVVM\CalculatorTests\bin\Debug\log4net.dll
+E:\MVVM\CalculatorTests\bin\Debug\MVVM.pdb
+E:\MVVM\CalculatorTests\bin\Debug\log4net.xml
+E:\MVVM\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+E:\MVVM\CalculatorTests\obj\Debug\CalculatorTests.dll
+E:\MVVM\CalculatorTests\obj\Debug\CalculatorTests.pdb

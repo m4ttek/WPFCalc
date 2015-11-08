@@ -1,0 +1,16 @@
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Release\MVVM.exe.config
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Release\MVVM.exe
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Release\MVVM.pdb
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\view\MainWindow.g.cs
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\App.g.cs
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM_MarkupCompile.cache
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM_MarkupCompile.lref
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\view\MainWindow.baml
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM.g.resources
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM.csproj.GenerateResource.Cache
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM.exe
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\MVVM.pdb
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Release\log4net.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Release\log4net.xml
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Release\Calc.Properties.Resources.resources

@@ -1,0 +1,54 @@
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\MVVM.exe.config
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\MVVM.exe
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\MVVM.pdb
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\view\MainWindow.g.cs
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\App.g.cs
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\view\MainWindow.baml
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM.g.resources
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM.exe
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM.pdb
+c:\users\m4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\MVVM\MVVM\bin\Debug\MVVM.exe.config
+H:\MVVM\MVVM\obj\Debug\MVVM.exe
+H:\MVVM\MVVM\obj\Debug\MVVM.pdb
+H:\MVVM\MVVM\bin\Debug\MVVM.exe
+H:\MVVM\MVVM\bin\Debug\MVVM.pdb
+H:\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+H:\MVVM\MVVM\obj\Debug\view\MainWindow.g.cs
+H:\MVVM\MVVM\obj\Debug\App.g.cs
+H:\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+H:\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+H:\MVVM\MVVM\obj\Debug\view\MainWindow.baml
+H:\MVVM\MVVM\obj\Debug\MVVM.g.resources
+H:\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+H:\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+C:\Users\M4ttek\Documents\Visual Studio 2013\Projects\MVVM\MVVM\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\log4net.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\log4net.xml
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\M4ttek\documents\visual studio 2013\Projects\MVVM\MVVM\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\M4ttek\Documents\Visual Studio 2013\Projects\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+E:\MVVM\MVVM\bin\Debug\MVVM.exe.config
+E:\MVVM\MVVM\obj\Debug\MVVM.exe
+E:\MVVM\MVVM\obj\Debug\MVVM.pdb
+E:\MVVM\MVVM\bin\Debug\MVVM.exe
+E:\MVVM\MVVM\bin\Debug\MVVM.pdb
+E:\MVVM\MVVM\bin\Debug\log4net.dll
+E:\MVVM\MVVM\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+E:\MVVM\MVVM\bin\Debug\log4net.xml
+E:\MVVM\MVVM\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+E:\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+E:\MVVM\MVVM\obj\Debug\view\MainWindow.g.cs
+E:\MVVM\MVVM\obj\Debug\App.g.cs
+E:\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+E:\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+E:\MVVM\MVVM\obj\Debug\view\MainWindow.baml
+E:\MVVM\MVVM\obj\Debug\MVVM.g.resources
+E:\MVVM\MVVM\obj\Debug\Calc.Properties.Resources.resources
+E:\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+E:\MVVM\MVVM\bin\Debug\MVVM.exe.log4net

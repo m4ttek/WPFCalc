@@ -1,0 +1,222 @@
+2015-11-03 21:25:13,503 [7] INFO  Calc.model.EnterCalculation: asd
+2015-11-03 21:25:14,558 [7] INFO  Calc.model.EnterCalculation: asd
+2015-11-03 21:55:32,344 [7] INFO  Calc.model.EnterCalculation: Calucation result: %d
+2015-11-03 21:55:45,976 [9] INFO  Calc.model.EnterCalculation: <log4net.Error>Exception during StringFormat: Nieprawid³owy format ci¹gu wejœciowego. <format>Calucation result: {}</format><args>{81}</args></log4net.Error>
+2015-11-03 21:57:51,048 [8] INFO  Calc.model.EnterCalculation: Calucation result: 36
+2015-11-03 21:57:52,743 [8] INFO  Calc.model.EnterCalculation: Calucation result: 216
+2015-11-03 21:57:53,942 [8] INFO  Calc.model.EnterCalculation: Calucation result: 1296
+2015-11-03 21:57:54,958 [8] INFO  Calc.model.EnterCalculation: Calucation result: 7776
+2015-11-03 21:59:08,088 [8] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-03 21:59:08,112 [8] WARN  Calc.model.EnterCalculation: Calcuation error!
+Calc.model.CalculationException: B³¹d systemu.
+2015-11-03 21:59:40,559 [9] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-03 21:59:59,542 [9] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-03 22:00:57,248 [8] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-03 22:00:57,255 [8] WARN  Calc.model.EnterCalculation: Calcuation error!
+Calc.model.CalculationException: B³¹d systemu.
+2015-11-03 22:01:31,400 [9] INFO  Calc.model.EnterCalculation: Calucation result: 0.81
+2015-11-03 22:01:31,934 [9] INFO  Calc.model.EnterCalculation: Calucation result: 0.0729
+2015-11-03 22:01:32,134 [9] INFO  Calc.model.EnterCalculation: Calucation result: 0.006561
+2015-11-03 22:01:32,326 [9] INFO  Calc.model.EnterCalculation: Calucation result: 0.00059049
+2015-11-03 22:01:36,087 [9] INFO  Calc.model.EnterCalculation: Calucation result: 3.486784401E-09
+2015-11-03 22:01:36,622 [9] INFO  Calc.model.EnterCalculation: Calucation result: 2.05891132094649E-14
+2015-11-03 22:01:36,854 [9] INFO  Calc.model.EnterCalculation: Calucation result: 1.21576654590569E-19
+2015-11-03 22:02:52,535 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 1
+2015-11-03 22:02:55,703 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0.111111111111111
+2015-11-03 22:02:58,663 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0.0123456790123457
+2015-11-03 22:03:02,375 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0.0740740740740741
+2015-11-03 22:03:03,494 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0.444444444444444
+2015-11-03 22:33:39,824 [8] INFO  Calc.model.EnterCalculation: Calucation result: 12
+2015-11-03 22:33:41,270 [8] INFO  Calc.model.EnterCalculation: Calucation result: 19
+2015-11-03 22:33:41,886 [8] INFO  Calc.model.EnterCalculation: Calucation result: 26
+2015-11-03 22:33:42,350 [8] INFO  Calc.model.EnterCalculation: Calucation result: 33
+2015-11-03 22:33:44,566 [8] INFO  Calc.model.EnterCalculation: Calucation result: 40
+2015-11-03 22:37:16,832 [8] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-03 22:37:16,839 [8] WARN  Calc.model.EnterCalculation: Calcuation error!
+Calc.model.CalculationException: B³¹d systemu.
+2015-11-03 22:38:34,840 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 25
+2015-11-03 22:38:40,758 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 150
+2015-11-03 22:38:42,655 [8] INFO  Calc.model.EnterCalculation: Calucation result: 22500
+2015-11-03 22:38:43,254 [8] INFO  Calc.model.EnterCalculation: Calucation result: 3375000
+2015-11-03 22:38:43,958 [8] INFO  Calc.model.EnterCalculation: Calucation result: 506250000
+2015-11-03 22:38:47,142 [8] INFO  Calc.model.EnterCalculation: Calucation result: 75937500000
+2015-11-03 22:47:32,335 [9] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 81, Calc.model.CalcOperation
+2015-11-03 22:51:04,512 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 9
+2015-11-03 22:51:15,990 [8] INFO  Calc.model.EnterCalculation: Calucation result: 54
+2015-11-03 22:51:38,518 [8] INFO  Calc.model.EnterCalculation: Calucation result: 324
+2015-11-03 22:52:48,071 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 3
+2015-11-03 22:52:48,077 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-03 22:52:51,735 [8] INFO  Calc.model.EnterCalculation: Calucation result: 9
+2015-11-03 22:53:16,656 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 9
+2015-11-03 22:53:16,661 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-03 22:53:18,174 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the second number to calculate: 9
+2015-11-03 22:53:18,174 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 1
+2015-11-03 22:53:18,174 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-03 22:53:20,207 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the second number to calculate: 9
+2015-11-03 22:53:20,207 [8] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0.111111111111111
+2015-11-03 22:53:20,207 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-03 22:55:40,152 [9] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 5
+2015-11-03 22:55:40,158 [9] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-03 22:55:43,830 [9] INFO  Calc.model.EnterCalculation: Second number accepted: 5
+2015-11-03 22:55:43,830 [9] INFO  Calc.model.EnterCalculation: Calucation result: 25
+2015-11-03 22:55:43,830 [9] INFO  Calc.model.EnterCalculation: Result copied to first number: 25
+2015-11-03 22:55:48,998 [9] INFO  Calc.model.EnterCalculation: Calucation result: 125
+2015-11-03 22:55:48,998 [9] INFO  Calc.model.EnterCalculation: Result copied to first number: 125
+2015-11-03 22:58:12,207 [8] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number:
+2015-11-03 22:58:26,336 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 6
+2015-11-03 22:58:26,342 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-03 22:58:27,175 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 6
+2015-11-03 22:58:27,175 [10] INFO  Calc.model.EnterCalculation: Calucation result: 36
+2015-11-03 22:58:27,175 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 36
+2015-11-03 22:58:27,798 [10] INFO  Calc.model.EnterCalculation: Calucation result: 216
+2015-11-03 22:58:27,798 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 216
+2015-11-03 22:58:30,310 [10] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 14.6969384566991
+2015-11-03 22:58:34,303 [10] INFO  Calc.model.EnterCalculation: Calucation result: 88.1816307401944
+2015-11-03 22:58:34,303 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 88.1816307401944
+2015-11-03 22:58:35,551 [10] INFO  Calc.model.EnterCalculation: Calucation result: 529.089784441166
+2015-11-03 22:58:35,551 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 529.089784441166
+2015-11-03 22:59:51,391 [8] INFO  Calc.model.ChangeSingCalculation: Sign changed!
+2015-11-03 22:59:53,358 [8] INFO  Calc.model.ChangeSingCalculation: Sign changed!
+2015-11-04 10:22:20,259 [9] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 3
+2015-11-04 10:22:28,091 [10] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 2.82842712474619
+2015-11-04 10:22:29,135 [10] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 1.68179283050743
+2015-11-04 10:27:34,803 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 3
+2015-11-04 10:27:34,813 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 10:27:36,059 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 3
+2015-11-04 10:27:36,059 [10] INFO  Calc.model.EnterCalculation: Calucation result: 9
+2015-11-04 10:27:36,059 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 9
+2015-11-04 10:30:28,003 [8] INFO  Calc.model.PercentageCalulcation: Percentage calculated: 0.09.
+2015-11-04 10:30:28,013 [8] INFO  Calc.model.PercentageCalulcation: Percentage calculated: 0.0009.
+2015-11-04 10:31:28,766 [10] INFO  Calc.model.PercentageCalulcation: Percentage calculated: 0.09.
+2015-11-04 10:46:35,206 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 6666
+2015-11-04 10:46:35,219 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 10:46:36,152 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 3
+2015-11-04 10:46:36,153 [10] INFO  Calc.model.EnterCalculation: Calucation result: 19998
+2015-11-04 10:46:36,153 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 19998
+2015-11-04 10:46:36,390 [10] INFO  Calc.model.EnterCalculation: Calucation result: 59994
+2015-11-04 10:46:36,390 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 59994
+2015-11-04 10:46:36,594 [10] INFO  Calc.model.EnterCalculation: Calucation result: 179982
+2015-11-04 10:46:36,594 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 179982
+2015-11-04 10:51:30,561 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 9
+2015-11-04 10:51:30,571 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 10:51:32,576 [8] INFO  Calc.model.EnterCalculation: Second number accepted: 9
+2015-11-04 10:51:32,576 [8] INFO  Calc.model.EnterCalculation: Calucation result: 1
+2015-11-04 10:51:32,576 [8] INFO  Calc.model.EnterCalculation: Result copied to first number: 1
+2015-11-04 10:51:33,036 [8] INFO  Calc.model.EnterCalculation: Calucation result: 0.111111111111111
+2015-11-04 10:51:33,036 [8] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.111111111111111
+2015-11-04 10:51:38,029 [8] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 10:51:39,325 [8] INFO  Calc.model.EnterCalculation: Second number accepted: 6
+2015-11-04 10:54:50,986 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 0.2033
+2015-11-04 10:54:50,996 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 10:54:51,941 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 3
+2015-11-04 10:54:51,941 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.6099
+2015-11-04 10:54:51,941 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.6099
+2015-11-04 10:54:54,735 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 0.3
+2015-11-04 10:54:54,735 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.18297
+2015-11-04 10:54:54,735 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.18297
+2015-11-04 10:54:58,096 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the second number to calculate: 0
+2015-11-04 10:54:58,096 [10] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 0
+2015-11-04 10:54:58,096 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 10:54:59,840 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 9
+2015-11-04 10:54:59,840 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0
+2015-11-04 10:54:59,841 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0
+2015-11-04 10:55:00,338 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0
+2015-11-04 10:55:00,338 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0
+2015-11-04 10:55:00,503 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0
+2015-11-04 10:55:00,503 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0
+2015-11-04 10:55:00,666 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0
+2015-11-04 10:55:00,666 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0
+2015-11-04 11:15:10,379 [9] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:15:12,334 [9] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 8825
+2015-11-04 11:15:12,334 [9] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:15:13,541 [9] INFO  Calc.model.EnterCalculation: Second number accepted: 9
+2015-11-04 11:15:13,542 [9] INFO  Calc.model.EnterCalculation: Calucation result: 980.555555555556
+2015-11-04 11:15:13,542 [9] INFO  Calc.model.EnterCalculation: Result copied to first number: 980.555555555556
+2015-11-04 11:21:32,173 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:21:33,659 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 9
+2015-11-04 11:21:33,660 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:21:35,746 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the second number to calculate: 9
+2015-11-04 11:21:35,747 [10] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: 1
+2015-11-04 11:21:35,747 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:21:38,064 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 0
+2015-11-04 11:21:38,064 [10] INFO  Calc.model.EnterCalculation: Calucation result: Infinity
+2015-11-04 11:21:38,064 [10] WARN  Calc.model.EnterCalculation: Calcuation error!
+Calc.model.CalculationException: System error.
+2015-11-04 11:21:54,791 [10] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 0
+2015-11-04 11:21:57,311 [10] INFO  Calc.model.ChangeSingCalculation: Sign changed!
+2015-11-04 11:22:10,221 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 88888.888888
+2015-11-04 11:22:10,221 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:22:11,891 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 9
+2015-11-04 11:22:11,891 [10] INFO  Calc.model.EnterCalculation: Calucation result: 9876.54320977778
+2015-11-04 11:22:11,891 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 9876.54320977778
+2015-11-04 11:22:12,285 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1097.39368997531
+2015-11-04 11:22:12,286 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1097.39368997531
+2015-11-04 11:22:12,523 [10] INFO  Calc.model.EnterCalculation: Calucation result: 121.932632219479
+2015-11-04 11:22:12,523 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 121.932632219479
+2015-11-04 11:22:12,707 [10] INFO  Calc.model.EnterCalculation: Calucation result: 13.5480702466088
+2015-11-04 11:22:12,707 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 13.5480702466088
+2015-11-04 11:22:12,885 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.50534113851208
+2015-11-04 11:22:12,886 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.50534113851208
+2015-11-04 11:22:13,059 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.167260126501343
+2015-11-04 11:22:13,059 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.167260126501343
+2015-11-04 11:22:13,237 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.0185844585001492
+2015-11-04 11:22:13,395 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.0185844585001492
+2015-11-04 11:22:13,419 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.00206493983334991
+2015-11-04 11:22:13,419 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.00206493983334991
+2015-11-04 11:22:13,581 [10] INFO  Calc.model.EnterCalculation: Calucation result: 0.000229437759261101
+2015-11-04 11:22:13,581 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 0.000229437759261101
+2015-11-04 11:22:13,773 [10] INFO  Calc.model.EnterCalculation: Calucation result: 2.54930843623446E-05
+2015-11-04 11:22:13,773 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 2.54930843623446E-05
+2015-11-04 11:22:13,940 [10] INFO  Calc.model.EnterCalculation: Calucation result: 2.83256492914939E-06
+2015-11-04 11:22:13,941 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 2.83256492914939E-06
+2015-11-04 11:22:14,115 [10] INFO  Calc.model.EnterCalculation: Calucation result: 3.14729436572155E-07
+2015-11-04 11:22:14,115 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 3.14729436572155E-07
+2015-11-04 11:22:14,308 [10] INFO  Calc.model.EnterCalculation: Calucation result: 3.49699373969061E-08
+2015-11-04 11:22:14,308 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 3.49699373969061E-08
+2015-11-04 11:22:14,491 [10] INFO  Calc.model.EnterCalculation: Calucation result: 3.88554859965623E-09
+2015-11-04 11:22:14,491 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 3.88554859965623E-09
+2015-11-04 11:22:14,663 [10] INFO  Calc.model.EnterCalculation: Calucation result: 4.31727622184026E-10
+2015-11-04 11:22:14,663 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 4.31727622184026E-10
+2015-11-04 11:22:14,843 [10] INFO  Calc.model.EnterCalculation: Calucation result: 4.79697357982251E-11
+2015-11-04 11:22:14,843 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 4.79697357982251E-11
+2015-11-04 11:22:15,020 [10] INFO  Calc.model.EnterCalculation: Calucation result: 5.32997064424723E-12
+2015-11-04 11:22:15,020 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 5.32997064424723E-12
+2015-11-04 11:22:15,205 [10] INFO  Calc.model.EnterCalculation: Calucation result: 5.92218960471915E-13
+2015-11-04 11:22:15,205 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 5.92218960471915E-13
+2015-11-04 11:22:15,373 [10] INFO  Calc.model.EnterCalculation: Calucation result: 6.58021067191017E-14
+2015-11-04 11:22:15,373 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 6.58021067191017E-14
+2015-11-04 11:22:15,541 [10] INFO  Calc.model.EnterCalculation: Calucation result: 7.3113451910113E-15
+2015-11-04 11:22:15,541 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 7.3113451910113E-15
+2015-11-04 11:22:15,725 [10] INFO  Calc.model.EnterCalculation: Calucation result: 8.12371687890144E-16
+2015-11-04 11:22:15,725 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 8.12371687890144E-16
+2015-11-04 11:22:15,921 [10] INFO  Calc.model.EnterCalculation: Calucation result: 9.02635208766827E-17
+2015-11-04 11:22:15,921 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 9.02635208766827E-17
+2015-11-04 11:22:16,090 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.00292800974092E-17
+2015-11-04 11:22:16,091 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.00292800974092E-17
+2015-11-04 11:22:16,259 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.11436445526769E-18
+2015-11-04 11:22:16,259 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.11436445526769E-18
+2015-11-04 11:22:16,430 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.23818272807521E-19
+2015-11-04 11:22:16,430 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.23818272807521E-19
+2015-11-04 11:22:16,613 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.37575858675023E-20
+2015-11-04 11:22:16,614 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.37575858675023E-20
+2015-11-04 11:22:16,781 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.5286206519447E-21
+2015-11-04 11:22:16,781 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.5286206519447E-21
+2015-11-04 11:22:16,960 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.69846739104967E-22
+2015-11-04 11:22:16,960 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.69846739104967E-22
+2015-11-04 11:22:17,137 [10] INFO  Calc.model.EnterCalculation: Calucation result: 1.88718599005519E-23
+2015-11-04 11:22:17,137 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 1.88718599005519E-23
+2015-11-04 11:22:17,320 [10] INFO  Calc.model.EnterCalculation: Calucation result: 2.09687332228354E-24
+2015-11-04 11:22:17,320 [10] INFO  Calc.model.EnterCalculation: Result copied to first number: 2.09687332228354E-24
+2015-11-04 11:22:27,636 [10] INFO  Calc.model.ChangeSingCalculation: Sign changed!
+2015-11-04 11:22:27,876 [10] INFO  Calc.model.ChangeSingCalculation: Sign changed!
+2015-11-04 11:22:35,988 [10] INFO  Calc.model.SquareRootCalculation: Square root calculated and copied to first number: 0.74535897167421
+2015-11-04 11:22:41,660 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: /
+2015-11-04 11:22:43,721 [10] INFO  Calc.model.EnterCalculation: Second number accepted: 0
+2015-11-04 11:22:45,728 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the first number to calculate: 6
+2015-11-04 11:22:45,728 [10] INFO  Calc.model.SimpleMathematicalCalculation: Calucation result: Infinity
+2015-11-04 11:22:45,728 [10] WARN  Calc.model.SimpleMathematicalCalculation: Calcuation error!
+Calc.model.CalculationException: System error.
+2015-11-04 11:22:52,093 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 11:22:52,305 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 11:22:52,490 [10] INFO  Calc.model.SimpleMathematicalCalculation: Accepted the operation to calculate: *
+2015-11-04 11:23:00,384 [10] INFO  Calc.model.ChangeSingCalculation: Sign changed!
